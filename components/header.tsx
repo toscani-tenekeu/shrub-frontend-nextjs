@@ -23,7 +23,7 @@ export function Header({ onToggleSidebar, isMobile, editorTheme, onToggleTheme }
         )}
         <Leaf className="h-6 w-6 text-emerald-500" />
         <h1 className="text-xl font-bold text-white">Shrub</h1>
-        <span className="text-xs bg-emerald-500/20 text-emerald-400 px-2 py-0.5 rounded-full">By Toscanisoft</span>
+        <span className="text-xs bg-emerald-500/20 text-emerald-400 px-2 py-0.5 rounded-full">From Toscanisoft</span>
       </div>
 
       <div className="flex items-center gap-2">
